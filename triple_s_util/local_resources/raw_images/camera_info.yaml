@@ -1,0 +1,21 @@
+!!python/object/new:sensor_msgs.msg._CameraInfo.CameraInfo
+state:
+- !!python/object/new:std_msgs.msg._Header.Header
+  state:
+  - 148
+  - !!python/object/new:genpy.rostime.Time
+    state: [601, 924000000]
+  - camera_link
+- 1080
+- 1920
+- plumb_bob
+- !!python/tuple [0.0, 0.0, 0.0, 0.0, 0.0]
+- !!python/tuple [1144.0874006434067, 0.0, 960.5, 0.0, 1144.0874006434067, 540.5,
+  0.0, 0.0, 1.0]
+- !!python/tuple [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+- !!python/tuple [1144.0874006434067, 0.0, 960.5, -80.08611804503848, 0.0, 1144.0874006434067,
+  540.5, 0.0, 0.0, 0.0, 1.0, 0.0]
+- 0
+- 0
+- !!python/object/new:sensor_msgs.msg._RegionOfInterest.RegionOfInterest
+  state: [0, 0, 0, 0, false]
