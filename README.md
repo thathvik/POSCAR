@@ -26,7 +26,7 @@ The following programs must be installed for the program to work:
   <li>MoveIt</li>
   <li>pytorch (cpu version) </li>
   <li>python-pip </li>
-  <li>NVidis CUDA toolkit </li>
+  <li>Nvidia CUDA toolkit </li>
 </ol>
 
 Move to the catkin workspace folder `catkin_ws` and run:
