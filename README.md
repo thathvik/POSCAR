@@ -77,3 +77,7 @@ This command, based on the performance of the Ubuntu machine used, runs the algo
  
 This repo is for a project for the course Robot Perception, at NYU. 
 The repositories used to implement this project are yet to be ackowledged. The author and co-auther of this project do not take complete credit for the work in this repo, since it was built of off a few exsisting Open-source repositories (especially NVIDIA DOPE, and TripleSBin picking). 
+
+Project by:
+Tarun Tathvik 
+Smrithi Reddy Thudi
